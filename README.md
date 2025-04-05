@@ -1,6 +1,6 @@
 # Netflix Movies and TV Shows Data Analysis Using SQL
 
-![Netflix Logo](logo(1).png)
+![Netflix Logo](logo.png)
 
 ## Table of Contents
 - [Overview](#overview)
